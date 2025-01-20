@@ -18,4 +18,3 @@ echo 'Deploying the application'
 }
 }
 }
-Coucou
